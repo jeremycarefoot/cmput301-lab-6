@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.carefoot.listycity","l":"City"},{"p":"com.carefoot.listycity","l":"CityList"},{"p":"com.carefoot.listycity","l":"MainActivity"}];updateSearchResults();
